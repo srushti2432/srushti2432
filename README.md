@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile! I'm a passionate developer interested in data science, machine learning, computer vision, and deep learning. I love exploring new technologies and applying them to solve real-world problems.</p>
+<p align="left">Welcome to my GitHub profile! I'm a Data-Driven Learner | Aspiring Predictive Analytics & Data Science Professional | Machine Learning Enthusiast | Python Developer</p>
 
 ###
 

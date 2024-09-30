@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I’m currently working on enhancing my skills in Web Development and Machine Learning.🌱<br>I have a growing interest in Computer Vision and Deep Learning.🤖<br>Open to collaborating on exciting projects and innovative ideas.💼</p>
+<p align="left">Passionate about Machine Learning and Data Science, I specialize in Python programming to drive data-driven solutions. Experienced in algorithms like SVM, Random Forest, and XGBoost, I focus on predictive modeling and data analysis to solve real-world challenges</p>
 
 ###
 
